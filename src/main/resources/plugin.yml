@@ -1,0 +1,4 @@
+name: Anticonsol
+version: '${project.version}'
+main: de.nikey.anticonsol.Anticonsol
+api-version: '1.19'
